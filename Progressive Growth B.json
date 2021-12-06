@@ -17,15 +17,15 @@
   "XmlUI": "",
   "ObjectStates": [
     {
-      "GUID": "6527a0",
+      "GUID": "848bb5",
       "Name": "CardCustom",
       "Transform": {
-        "posX": 19.5763016,
-        "posY": 0.9887669,
-        "posZ": 34.1867447,
-        "rotX": -2.91450775E-08,
-        "rotY": 90.004,
-        "rotZ": -4.69504857E-06,
+        "posX": 72.66624,
+        "posY": 1.113605,
+        "posZ": 18.0162621,
+        "rotX": 2.06613615E-09,
+        "rotY": 90.00001,
+        "rotZ": -2.83548864E-08,
         "scaleX": 1.64346778,
         "scaleY": 1.0,
         "scaleZ": 1.64346778
@@ -52,12 +52,12 @@
       "GridProjection": false,
       "HideWhenFaceDown": true,
       "Hands": true,
-      "CardID": 89300,
+      "CardID": 90200,
       "SidewaysCard": false,
       "CustomDeck": {
-        "893": {
-          "FaceURL": "file:///F:\\.mars\\Cards\\Sk01_Progressive_Growth.png",
-          "BackURL": "file:///F:\\.mars\\Cards\\Back.png",
+        "902": {
+          "FaceURL": "https://github.com/4keY/TerraformingMarsMod/blob/main/Sk01_Progressive_Growth.png?raw=true",
+          "BackURL": "https://github.com/4keY/TerraformingMarsMod/blob/main/Back.png?raw=true",
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
